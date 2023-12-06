@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lidrary_catalog>
+    <library_name>City Public Library</library_name>
+    <location>Main Street, City</location>
+    <books>
+        <book ISBN='978-1234567890'>
+            <title>The Art of Programming</title>
+            <author>John Smith</author>
+            <genre>Computer Science</genre>
+        </book>
+        <book ISBN='978-0987654321'>
+            <title>History of the World</title>
+            <author>Jane Doe</author>
+            <genre>History</genre>
+        </book>
+    </books>
+</lidrary_catalog>

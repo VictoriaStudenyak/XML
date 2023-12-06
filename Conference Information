@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conference_info>
+    <conference_name>DataTech Summit 2023</conference_name>
+    <location>TechCity Convention Center</location>
+    <date>2023-09-20</date>
+    <speakers>
+        <speaker id='01'>
+            <name>Dr. Sarah Johnson</name>
+            <bio>Expert in Data Science and Machine Learning</bio>
+        </speaker>
+        <speaker id='02'>
+           <name>Mark Davis</name>
+           <bio>Software Engineer with a focus on Big Data technologies</bio>
+        </speaker>
+    </speakers>
+    <sessions>
+        <session id='001'>
+            <title>Exploring Data Trends</title>
+            <speaker_id>01</speaker_id>
+            <time>10:00AM - 11:30PM</time>
+        </session>
+        <session id='002'>
+            <title>Big Data Analytics Workshop</title>
+            <speaker_id>02</speaker_id>
+            <time>1:30PM - 3:00PM</time>
+        </session>
+    </sessions>
+</conference_info>

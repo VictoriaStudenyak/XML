@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<financial_portfolio>
+    <investor>
+        <name>Jane Williams</name>
+        <portfolio_value>$500,000</portfolio_value>
+        <risk_tolerance>Moderate</risk_tolerance>
+    </investor>
+    <investments>
+        <investment id='01'>
+            <stock>Tech Innovation Inc.</stock>
+            <quantity>100</quantity>
+            <purchase_price>$150/share</purchase_price>
+        </investment>
+        <investment id='02'>
+            <stock>Global Growth Fund</mutual_fund>
+            <quantity>500</quantity>
+            <purchase_prise>$50/share</purchase_prise>
+        </investment>
+    </investments>
+</financial_portfolio>
